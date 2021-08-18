@@ -1,5 +1,5 @@
 # mdb-sf-demo
-MongoDB Symfony demo
+A very basic MongoDB Symfony demo to showcase persistance of object as JSON into MongoDB through Symfony PHP framework and MongoDB PHP driver.
 
 ## Here are the steps I followed on my macOS Catalina (version 10.15.7):
 
@@ -62,6 +62,7 @@ MONGODB_DB=eazy
 
 ### Go to http://127.0.0.1:8000/createProduct to create a Product
 <img src="https://github.com/hourdays/mdb-sf-demo/blob/main/readme-images/create_product.png" width="75%">
+View the created product with MongoDB Compass:
 <img src="https://github.com/hourdays/mdb-sf-demo/blob/main/readme-images/view_product_with_compass.png" width="75%">
 
 ### Go to http://127.0.0.1:8000/showProduct/611cf14b8e2d9df2ff03a334 to get Product with _id 611cf14b8e2d9df2ff03a334
