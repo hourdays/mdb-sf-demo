@@ -25,7 +25,8 @@ Git clone the demo source code
 `git clone https://github.com/hourdays/mdb-sf-demo.git .`
 
 Install project dependecies especially Doctrine, the object document mapper (ODM)
-- `composer require doctrine/mongodb-odm-bundle`
+`composer require doctrine/mongodb-odm-bundle`
+
 `composer install`
 
 Launch the server locally
