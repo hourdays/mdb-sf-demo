@@ -30,6 +30,7 @@ mkdir Repositories/mdb-sf-demo
 cd Repositories/mdb-sf-demo
 git clone https://github.com/hourdays/mdb-sf-demo.git .
 ```
+![alt text](https://github.com/hourdays/mdb-sf-demo/blob/main/readme-images/git%20clone.png)
 
 ### Install project dependecies especially Doctrine, the object document mapper (ODM)
 ```
