@@ -1,5 +1,5 @@
 # mdb-sf-demo
-MongoDB Symfony demo
+A MongoDB Symfony demo to showcase persistance of object as JSON into MongoDB through Symfony PHP framework and MongoDB PHP driver.
 
 ## Here are the steps I followed on my macOS Catalina (version 10.15.7):
 
