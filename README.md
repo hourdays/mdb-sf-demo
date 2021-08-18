@@ -36,6 +36,7 @@ git clone https://github.com/hourdays/mdb-sf-demo.git .
 composer require doctrine/mongodb-odm-bundle
 composer install
 ```
+![alt text](https://github.com/hourdays/mdb-sf-demo/blob/main/readme-images/require%20doctrine.png)
 
 ### Launch the server locally
 ```
