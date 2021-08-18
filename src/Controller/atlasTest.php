@@ -12,7 +12,7 @@ class atlasTest
         //$number = random_int(0, 100);
 
         $client = new MongoDB\Client(
-            'mongodb+srv://symfony:asYBeQRSQitfi0yR@demo.130he.mongodb.net/test?retryWrites=true&w=majority'
+            'mongodb+srv://<username>:<password>@<hostname>/test?retryWrites=true&w=majority'
         );
         
         $db = $client->test;
