@@ -41,3 +41,4 @@ composer install
 ```
 symfony server:start
 ```
+![alt text](https://github.com/hourdays/mdb-sf-demo/blob/main/readme-images/symfony_server-start.png)
