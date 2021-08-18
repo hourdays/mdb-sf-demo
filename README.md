@@ -47,4 +47,5 @@ composer install
 ```
 symfony server:start
 ```
-<img src="https://github.com/hourdays/mdb-sf-demo/blob/main/readme-images/symfony_server.png" width="75%">
+<img src="https://github.com/hourdays/mdb-sf-demo/blob/main/readme-images/symfony_server-start.png" width="75%">
+<img src="https://github.com/hourdays/mdb-sf-demo/blob/main/readme-images/Welcome%20to%20Symfony%205.3.3.png" width="75%">
