@@ -1,0 +1,8 @@
+# the "ProductCtrl" route name is not important yet
+CreateProductRoute:
+    path: /createProduct
+    controller: App\Controller\ProductController::createAction
+
+ShowProductByIdRoute:
+    path: /showProduct/{id}
+    controller: App\Controller\ProductController::showAction
