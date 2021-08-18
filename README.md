@@ -30,21 +30,21 @@ mkdir Repositories/mdb-sf-demo
 cd Repositories/mdb-sf-demo
 git clone https://github.com/hourdays/mdb-sf-demo.git .
 ```
-<img src="https://github.com/hourdays/mdb-sf-demo/blob/main/readme-images/git%20clone.png" width="50%">
+<img src="https://github.com/hourdays/mdb-sf-demo/blob/main/readme-images/git%20clone.png" width="75%">
 
 ### Install project dependecies especially Doctrine, the object document mapper (ODM)
 ```
 composer require doctrine/mongodb-odm-bundle
 ```
-![alt text](https://github.com/hourdays/mdb-sf-demo/blob/main/readme-images/require%20doctrine.png)
+<img src="https://github.com/hourdays/mdb-sf-demo/blob/main/readme-images/require%20doctrine.png" width="75%">
 
 ```
 composer install
 ```
-![alt text](https://github.com/hourdays/mdb-sf-demo/blob/main/readme-images/composer%20install.png)
+<img src="https://github.com/hourdays/mdb-sf-demo/blob/main/readme-images/composer%20install.png" width="75%">
 
 ### Launch the server locally
 ```
 symfony server:start
 ```
-![alt text](https://github.com/hourdays/mdb-sf-demo/blob/main/readme-images/symfony_server-start.png)
+<img src="https://github.com/hourdays/mdb-sf-demo/blob/main/readme-images/symfony_server.png" width="75%">
