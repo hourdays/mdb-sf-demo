@@ -12,6 +12,7 @@ brew install composer
 ```
 brew install php
 ```
+At the time of writing this the version installed on my macOS is 8.0.8
 
 ### Install MongoDB PHP driver
 ```
